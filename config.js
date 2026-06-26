@@ -17,7 +17,7 @@ const SITE_CONFIG = {
   intro: "",
 
   /* The obituary. A blank line starts a new paragraph.        */
-  obituary: `Fred Conway Graham passed away from heart failure on Sunday, June 14, 2026, surrounded by his family, at age 71. Known for his humor and his dependable nature, he kept close relationships throughout his life.
+  obituary: `Fred Conway Graham passed away on Sunday, June 14, 2026, surrounded by his family, at age 71. Known for his humor and his dependable nature, he kept close relationships throughout his life.
 
 Born in Norriton, PA to Harry John Graham and Florence Conway Graham, Fred was the middle of three sons. He graduated from Upper Dublin Senior High School in 1973, earned degrees in history and economics from Gettysburg College, and completed a PhD in Economics from the University of Virginia in 1985.
 
