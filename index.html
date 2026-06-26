@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Discourage search engines from indexing this private memorial -->
+  <meta name="robots" content="noindex, nofollow" />
+  <title>In Memory of Fred Conway Graham</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap"
+    rel="stylesheet" />
+
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+
+  <!-- ============ PASSWORD GATE ============ -->
+  <div id="gate" class="gate">
+    <div class="gate-card">
+      <h1 id="gate-name">In Loving Memory</h1>
+      <p class="gate-sub">This is a private memorial. Please enter the password shared with you.</p>
+      <form id="gate-form" autocomplete="off">
+        <input
+          id="gate-input"
+          type="password"
+          placeholder="Password"
+          aria-label="Password"
+          autofocus />
+        <button type="submit">Enter</button>
+      </form>
+      <p id="gate-error" class="gate-error" hidden>That password isn't right. Please try again.</p>
+    </div>
+  </div>
+
+  <!-- ============ MAIN CONTENT (revealed after password) ============ -->
+  <main id="site" hidden>
+
+    <!-- Hero -->
+    <header class="hero">
+      <div class="hero-inner">
+        <p class="hero-eyebrow">In Loving Memory</p>
+        <h1 id="site-name" class="hero-name"></h1>
+        <p id="site-dates" class="hero-dates"></p>
+        <p id="site-tagline" class="hero-tagline"></p>
+        <div class="ornament" aria-hidden="true"><span>&#10086;</span></div>
+      </div>
+    </header>
+
+    <!-- Tabs -->
+    <nav class="tabs" role="tablist">
+      <button class="tab" role="tab" data-target="about">About</button>
+      <button class="tab" role="tab" data-target="gallery">Photos</button>
+      <button class="tab" role="tab" data-target="stories">Memories</button>
+      <button class="tab" role="tab" data-target="share">Share a Memory</button>
+    </nav>
+
+    <!-- ABOUT -->
+    <section id="about" class="section tab-panel" role="tabpanel">
+      <p id="about-intro" class="about-intro"></p>
+      <div class="about-body">
+        <figure id="about-portrait" class="about-portrait" hidden>
+          <img id="about-portrait-img" src="" alt="" />
+        </figure>
+        <div id="about-obituary" class="prose obituary"></div>
+      </div>
+      <div id="about-service" class="service-card" hidden></div>
+    </section>
+
+    <!-- GALLERY -->
+    <section id="gallery" class="section tab-panel" role="tabpanel" hidden>
+      <h2 class="section-title">Photographs</h2>
+      <div id="gallery-grid" class="gallery-grid"></div>
+      <p id="gallery-empty" class="empty-note" hidden>Photographs will be added here soon.</p>
+    </section>
+
+    <!-- STORIES (one at a time) -->
+    <section id="stories" class="section tab-panel" role="tabpanel" hidden>
+      <h2 class="section-title">Memories</h2>
+
+      <div id="stories-empty" class="empty-note" hidden>Memories shared by friends and family will appear here.</div>
+
+      <div id="story-viewer" class="story-viewer">
+        <button id="story-prev" class="story-arrow" aria-label="Previous story">&#8249;</button>
+
+        <article id="story-card" class="story">
+          <div id="story-text" class="story-text"></div>
+          <div id="story-meta" class="story-meta"></div>
+        </article>
+
+        <button id="story-next" class="story-arrow" aria-label="Next story">&#8250;</button>
+      </div>
+
+      <div id="story-controls" class="story-controls">
+        <span id="story-counter" class="story-counter"></span>
+        <span class="story-hint">Use the arrows or your ← → keys</span>
+      </div>
+    </section>
+
+    <!-- SHARE -->
+    <section id="share" class="section share tab-panel" role="tabpanel" hidden>
+      <h2 class="section-title">Share a Memory</h2>
+      <p class="share-intro">
+        Have a memory of Fred you'd like to share? We'd love to read it.
+        Submissions are reviewed and added to the Memories tab.
+      </p>
+      <div id="form-container"></div>
+    </section>
+
+    <footer class="footer">
+      <p>Made with love, in memory of <span id="footer-name"></span>.</p>
+    </footer>
+
+  </main>
+
+  <!-- ============ LIGHTBOX ============ -->
+  <div id="lightbox" class="lightbox" hidden>
+    <button class="lightbox-close" aria-label="Close">&times;</button>
+    <button class="lightbox-prev" aria-label="Previous">&#8249;</button>
+    <img id="lightbox-img" src="" alt="" />
+    <p id="lightbox-caption" class="lightbox-caption"></p>
+    <button class="lightbox-next" aria-label="Next">&#8250;</button>
+  </div>
+
+  <!-- Data + config + app -->
+  <script src="config.js"></script>
+  <script src="data/photos.js"></script>
+  <script src="data/stories.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

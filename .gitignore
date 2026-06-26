@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Google Form responses export — keep private, not part of the site
+*.csv
+"Memories of Fred Graham (Responses) - Form Responses 1.csv"
+
+# Editor / tooling
+.claude/
+scratch-*.js
