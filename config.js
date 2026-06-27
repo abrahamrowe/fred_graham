@@ -17,13 +17,23 @@ const SITE_CONFIG = {
   intro: "",
 
   /* The obituary. A blank line starts a new paragraph.        */
-  obituary: `Fred Conway Graham passed away on Sunday, June 14, 2026, surrounded by his family, at age 71. Known for his humor and his dependable nature, he kept close relationships throughout his life.
+  obituary: `Widely known for his humor, intelligence and easy going demeanor, Fred made lifelong friends in every chapter of his life. He was a constant for his family, friends and colleagues, dependable and even-keeled in nearly every situation.
 
-Born in Norriton, PA to Harry John Graham and Florence Conway Graham, Fred was the middle of three sons. He graduated from Upper Dublin Senior High School in 1973, earned degrees in history and economics from Gettysburg College, and completed a PhD in Economics from the University of Virginia in 1985.
+Fred was born on March 5, 1955 in Norristown, PA to Harry John Graham and Florence Conway Graham. The middle of three boys, he and his two brothers grew up playing baseball and golf with kids from across the neighborhood in the backyard of Graham’s Lazy Acre on Butler Pike in Ambler, PA.
 
-Fred married Amy Behrendt in 1986 and relocated to Arlington, VA, where he held a tenure-track economics position at American University. They had two children: Nathan (born 1988) and Mal (born 1992). He later moved to the Federal Housing Finance Board, rising to Deputy Director for Home Loan Bank Regulation before retiring in 2017.
+After graduating from Upper Dublin Senior High School in 1973, Fred attended Gettysburg College in Gettysburg, PA, where he earned degrees in history and economics, and then the University of Virginia where he graduated with a PhD in Economics in 1985.
 
-Fred is survived by his wife Amy, his two sons, two grandsons, and his two brothers and their families.`,
+In Charlottesville, Fred was known as an intelligent collaborator in the classroom and a relentless competitor on the basketball court. There, he also met Amy Behrendt, whom he married in 1986. A move to Arlington VA followed, where Fred took a tenure-track position in the Economics department at American University in Washington DC. They welcomed two children together, first Nathan in 1988 and then Mal in 1992.
+
+For the kids, Fred was a constant presence during childhood, where the flexibility of the university schedule allowed them to spend a lot of time together. He was the very model of a doting father, coaching youth sports and doing his fair share of ferrying the kids to and from martial arts, music lessons, and summer camps.
+
+A career change came when Amy decided she had had enough of the corporate world, and Fred took a job in the Federal government. He put his academic experience into practice with the Federal Housing Finance Board, overseeing the complex financial world of home mortgage loans in the United States.
+
+Fred’s colleagues at the FHFB (which became the FHFA in 2009) knew him as an intelligent, engaging and low-nonsense professional and leader as he rose through the ranks, culminating in his appointment to be Deputy Director for the Division of Home Loan Bank Regulation in 2013.
+
+He retired from Federal service in 2017. His retirement was spent on the golf course, traveling, in his easy chair, or at the beck and call of his two grandsons, Wesley (2021) and Griﬃn (2023). Amy and Fred also enjoyed many trips together during this time, both abroad and across the United States to visit friends and famous places in equal measure. They celebrated their 40th wedding anniversary in May 2026 with a big party at their home of 30 years in Arlington.
+
+He was preceded in death by his parents, Florence (Conway) and Harry John Graham Sr. He is survived by his brothers Harry Jr. (and Sue) Graham and Timothy (and Susan) Graham, his wife Amy, his son Nathan (and wife Megan) Graham, his child Mal (and spouse Abraham Rowe), and two grandsons, Wesley and Griﬃn. Nate and Megan are expecting his third grandson in October`,
 
   /* Service details. Leave as "" to hide the service card.    */
   service: "",
