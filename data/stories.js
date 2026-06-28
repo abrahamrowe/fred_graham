@@ -152,6 +152,16 @@ I miss him.`,
     text: `Fred and I played in a Sunday morning basketball game together for many years. Apart from being a good basketball player, Fred was a great guy and we became friends. I always liked playing on Fred's team — he was competitive and team oriented and we both loved the back-door play! In more recent years, Fred and I would go to Wizards or Nationals games together from time to time. I always enjoyed spending time with Fred — he was engaging, bright and funny but also just a warm and caring person. I am so glad to have known Fred and will always remember his warm heart and positive spirit.`,
   },
 
+   {
+    author: "Henry Dunbar",
+    date: "",
+    text: `I knew OF Fred before I actually got to know him. I worked with Nate at DS&MG and heard many stories, but mostly recall the trying times during Fred's stroke and recovery challenges. Nate left DS&MG shortly after this period (eventually ending up at Arlington Transportation) and I lost the "Fred thread" for several years. Fast forward to me nearing retirement and I start attending Lander Allin's coffee meetups on Wednesday mornings at Ididos. Occasionally we'd be joined by this tall guy Fred, who was part of the Madison Manor Bike club. He said he didn't bike any more because he had balance issues. A few months after I first met the new guy in person, we were both invited to Lander's for a dinner (along with Reid Goldstein). At one point, Lander says to Fred (who in my mind is still the guy from coffee), "I've been on some of the virtual meetings that your son has been doing for Arlington Transportation and have been impressed with how well he's runs those." To which I ask, "Who's your son?" "Nate Graham," Fred says. "Wait, YOU'RE Nate's dad?!" 
+
+Of course It all made sense at that point, but it was a funny moment. I think the disconnect in my brain was party due to the last water cooler updates I had gotten were of a man struggling in the rehabilitation phase with recovery still very much uncertain. The "new guy" at coffee was walking fine, just a little bit slower like the rest of us.
+
+After the dinner epiphany, our conversations at coffee started including reverse updates on Nate and his growth as a parent and family man, and Fred's role as grandparent. Since I retired in January, more than once Fred and I would be the last two at the coffee club, and we'd linger in conversation for 30 minutes or more catching up on family and world events. "Smart" and "funny" were the words that come to mind if asked to described Fred. Even though I only got to know him personally over the past 2-3 years, I'm glad I did and very much enjoyed the brief times we had. I know many others in the group feel the same. `,
+  },
+
   {
     author: "Tom Genton",
     date: "",
