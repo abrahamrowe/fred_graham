@@ -162,6 +162,14 @@ Of course It all made sense at that point, but it was a funny moment. I think th
 After the dinner epiphany, our conversations at coffee started including reverse updates on Nate and his growth as a parent and family man, and Fred's role as grandparent. Since I retired in January, more than once Fred and I would be the last two at the coffee club, and we'd linger in conversation for 30 minutes or more catching up on family and world events. "Smart" and "funny" were the words that come to mind if asked to described Fred. Even though I only got to know him personally over the past 2-3 years, I'm glad I did and very much enjoyed the brief times we had. I know many others in the group feel the same. `,
   },
 
+   {
+    author: "Jim Causey",
+    date: "",
+    text: `I was privileged to to be among those who played basketball with Fred for some 25 years or so, first at Taylor Elementary, and then at Gerry McCartin's and, most wonderfully, the hardwood court at Trinity Presbyterian. For those of us with some nodding acquaintance with basketball, the game at Taylor was a bit clumsy and thuggish, and played on a multipurpose carpeted that led to numerous knee injuries as it did not allow the slippage needed to properly play basketball. The game at Gerry's was a outdoor half-court game that barely permitted four-on-four play and as such, was also very physical, though all the players were experienced. Fred, of course was a frequent source of insightful "advice" regarding the excessive testosterone levels of his various opponents and teammates, many of whom tried a little too hard at times to avoid losing a game and having to sit out the next one.
+
+The game at Trinity was played on Thursday evenings, and the gym, which was on the second level, was accessed through a door on the first level. One summer night, as we variously arrived for the big game (a high point of the week for most of us if not for our spouses), we discovered the first level access door had not been unlocked as per custom. Not to be deterred, we searched for other points of first level access, but all were locked and secured. However, we did find a ladder, and the intrepid Fred mused that we might be able to use the ladder to access a second story window of the gym, which might possibly be unlocked. We marveled at Fred's apparent experience with "breaking and entering," and encouraged him to apply his "second story" talents to resolve our dilemma. As Fred climbed the ladder, the tension was palpable. We needed to complete this illegal entry before any bystanders noticed and notified local law enforcement. The window was unlocked, and Fred opened and gracefully climbed through the window, and then came down and opened the first story door to let the rest of us in. We all hailed Fred for his clear criminal history, which Fred demurred with his customary self-deprecating humor.  `,
+  },
+
   {
     author: "Tom Genton",
     date: "",
